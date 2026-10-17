@@ -5,6 +5,9 @@
 CogniScan is a full-stack, clinically grounded web application built to help individuals and caregivers screen, track, and monitor cognitive health. By integrating AI-powered speech analysis through Groq Whisper and LLaMA with interactive micro-cognitive assessments, CogniScan delivers real-time scoring, longitudinal trend tracking, and multilingual support.
 
 ---
+## 🧪 Assessment Workflow
+
+CogniScan combines speech-based analysis with interactive cognitive assessments to provide a broader view of cognitive performance. Users can complete individual activities, review their assessment results, and track changes over time through personalized dashboards.
 
 ## 🌟 Key Features
 
